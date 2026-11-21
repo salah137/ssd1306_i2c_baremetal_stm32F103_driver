@@ -1,0 +1,288 @@
+
+Merging object attributes
+
+
+Discarded input sections
+
+ .group         0x00000000        0xc o_files/main.o
+ .group         0x00000000        0xc o_files/main.o
+ .group         0x00000000        0xc o_files/main.o
+ .group         0x00000000        0xc o_files/main.o
+ .group         0x00000000        0xc o_files/main.o
+ .group         0x00000000        0xc o_files/main.o
+ .group         0x00000000        0xc o_files/main.o
+ .group         0x00000000        0xc o_files/I2c_driver/I2C_driver.o
+ .group         0x00000000        0xc o_files/I2c_driver/I2C_driver.o
+ .group         0x00000000        0xc o_files/I2c_driver/I2C_driver.o
+ .group         0x00000000        0xc o_files/I2c_driver/I2C_driver.o
+ .group         0x00000000        0xc o_files/I2c_driver/I2C_driver.o
+ .group         0x00000000        0xc o_files/I2c_driver/I2C_driver.o
+ .group         0x00000000        0xc o_files/I2c_driver/I2C_driver.o
+ .group         0x00000000        0xc o_files/I2c_driver/I2C_driver.o
+ .debug_macro   0x00000000      0xad2 o_files/I2c_driver/I2C_driver.o
+ .debug_macro   0x00000000       0x22 o_files/I2c_driver/I2C_driver.o
+ .debug_macro   0x00000000       0x8e o_files/I2c_driver/I2C_driver.o
+ .debug_macro   0x00000000       0x51 o_files/I2c_driver/I2C_driver.o
+ .debug_macro   0x00000000      0x103 o_files/I2c_driver/I2C_driver.o
+ .debug_macro   0x00000000       0x6a o_files/I2c_driver/I2C_driver.o
+ .debug_macro   0x00000000      0x1df o_files/I2c_driver/I2C_driver.o
+ .group         0x00000000        0xc o_files/ssd1306_driver/ssd1306_driver.o
+ .group         0x00000000        0xc o_files/ssd1306_driver/ssd1306_driver.o
+ .group         0x00000000        0xc o_files/ssd1306_driver/ssd1306_driver.o
+ .group         0x00000000        0xc o_files/ssd1306_driver/ssd1306_driver.o
+ .group         0x00000000        0xc o_files/ssd1306_driver/ssd1306_driver.o
+ .group         0x00000000        0xc o_files/ssd1306_driver/ssd1306_driver.o
+ .group         0x00000000        0xc o_files/ssd1306_driver/ssd1306_driver.o
+ .group         0x00000000        0xc o_files/ssd1306_driver/ssd1306_driver.o
+ .group         0x00000000        0xc o_files/ssd1306_driver/ssd1306_driver.o
+ .group         0x00000000        0xc o_files/ssd1306_driver/ssd1306_driver.o
+ .debug_macro   0x00000000      0xad2 o_files/ssd1306_driver/ssd1306_driver.o
+ .debug_macro   0x00000000       0x22 o_files/ssd1306_driver/ssd1306_driver.o
+ .debug_macro   0x00000000       0x8e o_files/ssd1306_driver/ssd1306_driver.o
+ .debug_macro   0x00000000       0x51 o_files/ssd1306_driver/ssd1306_driver.o
+ .debug_macro   0x00000000      0x103 o_files/ssd1306_driver/ssd1306_driver.o
+ .debug_macro   0x00000000       0x6a o_files/ssd1306_driver/ssd1306_driver.o
+ .debug_macro   0x00000000      0x1df o_files/ssd1306_driver/ssd1306_driver.o
+ .debug_macro   0x00000000       0xca o_files/ssd1306_driver/ssd1306_driver.o
+ .group         0x00000000        0xc o_files/dump_heap/dump_heap.o
+ .group         0x00000000        0xc o_files/dump_heap/dump_heap.o
+ .group         0x00000000        0xc o_files/dump_heap/dump_heap.o
+ .group         0x00000000        0xc o_files/dump_heap/dump_heap.o
+ .group         0x00000000        0xc o_files/dump_heap/dump_heap.o
+ .group         0x00000000        0xc o_files/dump_heap/dump_heap.o
+ .group         0x00000000        0xc o_files/dump_heap/dump_heap.o
+ .group         0x00000000        0xc o_files/dump_heap/dump_heap.o
+ .debug_macro   0x00000000      0xad2 o_files/dump_heap/dump_heap.o
+ .debug_macro   0x00000000       0x22 o_files/dump_heap/dump_heap.o
+ .debug_macro   0x00000000       0x8e o_files/dump_heap/dump_heap.o
+ .debug_macro   0x00000000       0x51 o_files/dump_heap/dump_heap.o
+ .debug_macro   0x00000000      0x103 o_files/dump_heap/dump_heap.o
+ .debug_macro   0x00000000       0x6a o_files/dump_heap/dump_heap.o
+ .debug_macro   0x00000000      0x1df o_files/dump_heap/dump_heap.o
+ .debug_macro   0x00000000      0x190 o_files/dump_heap/dump_heap.o
+ .group         0x00000000        0xc o_files/startup.o
+ .group         0x00000000        0xc o_files/startup.o
+ .group         0x00000000        0xc o_files/startup.o
+ .group         0x00000000        0xc o_files/startup.o
+ .group         0x00000000        0xc o_files/startup.o
+ .group         0x00000000        0xc o_files/startup.o
+ .group         0x00000000        0xc o_files/startup.o
+ .group         0x00000000        0xc o_files/startup.o
+ .debug_macro   0x00000000      0xad2 o_files/startup.o
+ .debug_macro   0x00000000       0x22 o_files/startup.o
+ .debug_macro   0x00000000       0x8e o_files/startup.o
+ .debug_macro   0x00000000       0x51 o_files/startup.o
+ .debug_macro   0x00000000      0x103 o_files/startup.o
+ .debug_macro   0x00000000       0x6a o_files/startup.o
+ .debug_macro   0x00000000      0x1df o_files/startup.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00020000         xr
+RAM              0x20000000         0x00002000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+
+.text           0x08000000      0xc78
+                0x08000000                        . = ALIGN (0x4)
+                0x08000000                        _stext = .
+ *(.vector_table)
+ .vector_table  0x08000000       0xc4 o_files/startup.o
+                0x08000000                vector_table
+ *(.text*)
+ .text          0x080000c4       0x16 o_files/main.o
+                0x080000c4                main
+ *fill*         0x080000da        0x2 
+ .text          0x080000dc      0x300 o_files/I2c_driver/I2C_driver.o
+                0x08000108                init_i2c
+                0x080001f4                start_bus
+                0x08000224                send_address
+                0x08000268                send_the_byte
+                0x08000298                stop_bus
+                0x080002b4                send_playload
+                0x08000338                I2C_ERR_IRQ
+ .text          0x080003dc      0x5c4 o_files/ssd1306_driver/ssd1306_driver.o
+                0x080004f6                start_ssd1306
+                0x08000558                horizontale_flip
+                0x08000584                vertical_flip
+                0x080005b6                set_brightness
+                0x080005f0                ssd1306_draw_pixel
+                0x080006a0                ssd1306_clear_fb
+                0x080006bc                ssd1306_draw_horizental_line
+                0x08000730                ssd1306_draw_verticale_line
+                0x0800079c                ssd1306_draw_rectangle_empty
+                0x08000856                draw_char
+                0x0800094c                draw_string
+ .text          0x080009a0       0x8a o_files/dump_heap/dump_heap.o
+                0x080009a0                destroy_dumb
+                0x080009ca                allocate_dumb
+ *fill*         0x08000a2a        0x2 
+ .text          0x08000a2c       0x70 o_files/startup.o
+                0x08000a2c                Reset_Handler
+                0x08000a88                NMI_Handler
+                0x08000a88                Default_Handler
+                0x08000a8e                HardFault_Handler
+ *(.rodata*)
+ .rodata        0x08000a9c      0x1db o_files/ssd1306_driver/ssd1306_driver.o
+                0x08000c78                        . = ALIGN (0x4)
+ *fill*         0x08000c77        0x1 
+                0x08000c78                        _etext = .
+                0x08000c78                        _sidata = LOADADDR (.data)
+
+.glue_7         0x08000c78        0x0
+ .glue_7        0x08000c78        0x0 linker stubs
+
+.glue_7t        0x08000c78        0x0
+ .glue_7t       0x08000c78        0x0 linker stubs
+
+.vfp11_veneer   0x08000c78        0x0
+ .vfp11_veneer  0x08000c78        0x0 linker stubs
+
+.v4_bx          0x08000c78        0x0
+ .v4_bx         0x08000c78        0x0 linker stubs
+
+.iplt           0x08000c78        0x0
+ .iplt          0x08000c78        0x0 o_files/main.o
+
+.rel.dyn        0x08000c78        0x0
+ .rel.iplt      0x08000c78        0x0 o_files/main.o
+
+.data           0x20000000       0x10 load address 0x08000c78
+                0x20000000                        . = ALIGN (0x4)
+                0x20000000                        _sdata = .
+ *(.data*)
+ .data          0x20000000        0x0 o_files/main.o
+ .data          0x20000000        0x0 o_files/I2c_driver/I2C_driver.o
+ .data          0x20000000       0x10 o_files/ssd1306_driver/ssd1306_driver.o
+                0x20000000                my_heap
+ .data          0x20000010        0x0 o_files/dump_heap/dump_heap.o
+ .data          0x20000010        0x0 o_files/startup.o
+                0x20000010                        . = ALIGN (0x4)
+                0x20000010                        _edata = .
+
+.igot.plt       0x20000010        0x0 load address 0x08000c88
+ .igot.plt      0x20000010        0x0 o_files/main.o
+
+.bss            0x20000010      0x498 load address 0x08000c88
+                0x20000010                        . = ALIGN (0x4)
+                0x20000010                        _sbss = .
+ *(.bss*)
+ .bss           0x20000010        0x0 o_files/main.o
+ .bss           0x20000010        0x4 o_files/I2c_driver/I2C_driver.o
+ *fill*         0x20000014        0x4 
+ .bss           0x20000018      0x490 o_files/ssd1306_driver/ssd1306_driver.o
+                0x20000018                ssd1306_i2c_packet
+                0x20000020                ssd1306_heap
+                0x200004a0                frame_buffer
+                0x200004a4                command_playload
+ .bss           0x200004a8        0x0 o_files/dump_heap/dump_heap.o
+ .bss           0x200004a8        0x0 o_files/startup.o
+ *(COMMON)
+                0x200004a8                        . = ALIGN (0x4)
+                0x200004a8                        _ebss = .
+                0x20002000                        _estack = (ORIGIN (RAM) + LENGTH (RAM))
+LOAD o_files/main.o
+LOAD o_files/I2c_driver/I2C_driver.o
+LOAD o_files/ssd1306_driver/ssd1306_driver.o
+LOAD o_files/dump_heap/dump_heap.o
+LOAD o_files/startup.o
+OUTPUT(ssd1306_driver.elf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x00000000      0xcea
+ .debug_info    0x00000000       0xc8 o_files/main.o
+ .debug_info    0x000000c8      0x266 o_files/I2c_driver/I2C_driver.o
+ .debug_info    0x0000032e      0x6e4 o_files/ssd1306_driver/ssd1306_driver.o
+ .debug_info    0x00000a12      0x176 o_files/dump_heap/dump_heap.o
+ .debug_info    0x00000b88      0x162 o_files/startup.o
+
+.debug_abbrev   0x00000000      0x62f
+ .debug_abbrev  0x00000000       0x83 o_files/main.o
+ .debug_abbrev  0x00000083      0x172 o_files/I2c_driver/I2C_driver.o
+ .debug_abbrev  0x000001f5      0x25e o_files/ssd1306_driver/ssd1306_driver.o
+ .debug_abbrev  0x00000453       0xe1 o_files/dump_heap/dump_heap.o
+ .debug_abbrev  0x00000534       0xfb o_files/startup.o
+
+.debug_aranges  0x00000000       0xa0
+ .debug_aranges
+                0x00000000       0x20 o_files/main.o
+ .debug_aranges
+                0x00000020       0x20 o_files/I2c_driver/I2C_driver.o
+ .debug_aranges
+                0x00000040       0x20 o_files/ssd1306_driver/ssd1306_driver.o
+ .debug_aranges
+                0x00000060       0x20 o_files/dump_heap/dump_heap.o
+ .debug_aranges
+                0x00000080       0x20 o_files/startup.o
+
+.debug_macro    0x00000000     0x14d4
+ .debug_macro   0x00000000       0x63 o_files/main.o
+ .debug_macro   0x00000063      0xad2 o_files/main.o
+ .debug_macro   0x00000b35       0x22 o_files/main.o
+ .debug_macro   0x00000b57       0x8e o_files/main.o
+ .debug_macro   0x00000be5       0x51 o_files/main.o
+ .debug_macro   0x00000c36      0x103 o_files/main.o
+ .debug_macro   0x00000d39       0x6a o_files/main.o
+ .debug_macro   0x00000da3      0x1df o_files/main.o
+ .debug_macro   0x00000f82       0x78 o_files/I2c_driver/I2C_driver.o
+ .debug_macro   0x00000ffa       0xca o_files/I2c_driver/I2C_driver.o
+ .debug_macro   0x000010c4       0x94 o_files/ssd1306_driver/ssd1306_driver.o
+ .debug_macro   0x00001158       0x2e o_files/ssd1306_driver/ssd1306_driver.o
+ .debug_macro   0x00001186      0x190 o_files/ssd1306_driver/ssd1306_driver.o
+ .debug_macro   0x00001316       0x7c o_files/dump_heap/dump_heap.o
+ .debug_macro   0x00001392       0x72 o_files/startup.o
+ .debug_macro   0x00001404       0xd0 o_files/startup.o
+
+.debug_line     0x00000000      0xbe5
+ .debug_line    0x00000000      0x12d o_files/main.o
+ .debug_line    0x0000012d      0x31f o_files/I2c_driver/I2C_driver.o
+ .debug_line    0x0000044c      0x46d o_files/ssd1306_driver/ssd1306_driver.o
+ .debug_line    0x000008b9      0x1ad o_files/dump_heap/dump_heap.o
+ .debug_line    0x00000a66      0x17f o_files/startup.o
+
+.debug_str      0x00000000     0x46de
+ .debug_str     0x00000000     0x46de o_files/main.o
+                               0x3d55 (size before relaxing)
+ .debug_str     0x000046de        0x0 o_files/I2c_driver/I2C_driver.o
+                               0x4226 (size before relaxing)
+ .debug_str     0x000046de        0x0 o_files/ssd1306_driver/ssd1306_driver.o
+                               0x4780 (size before relaxing)
+ .debug_str     0x000046de        0x0 o_files/dump_heap/dump_heap.o
+                               0x4100 (size before relaxing)
+ .debug_str     0x000046de        0x0 o_files/startup.o
+                               0x418d (size before relaxing)
+
+.comment        0x00000000       0x1e
+ .comment       0x00000000       0x1e o_files/main.o
+                                 0x1f (size before relaxing)
+ .comment       0x0000001e        0x0 o_files/I2c_driver/I2C_driver.o
+                                 0x1f (size before relaxing)
+ .comment       0x0000001e        0x0 o_files/ssd1306_driver/ssd1306_driver.o
+                                 0x1f (size before relaxing)
+ .comment       0x0000001e        0x0 o_files/dump_heap/dump_heap.o
+                                 0x1f (size before relaxing)
+ .comment       0x0000001e        0x0 o_files/startup.o
+                                 0x1f (size before relaxing)
+
+.ARM.attributes
+                0x00000000       0x2d
+ .ARM.attributes
+                0x00000000       0x2d o_files/main.o
+ .ARM.attributes
+                0x0000002d       0x2d o_files/I2c_driver/I2C_driver.o
+ .ARM.attributes
+                0x0000005a       0x2d o_files/ssd1306_driver/ssd1306_driver.o
+ .ARM.attributes
+                0x00000087       0x2d o_files/dump_heap/dump_heap.o
+ .ARM.attributes
+                0x000000b4       0x2d o_files/startup.o
+
+.debug_frame    0x00000000      0x444
+ .debug_frame   0x00000000       0x2c o_files/main.o
+ .debug_frame   0x0000002c      0x128 o_files/I2c_driver/I2C_driver.o
+ .debug_frame   0x00000154      0x228 o_files/ssd1306_driver/ssd1306_driver.o
+ .debug_frame   0x0000037c       0x60 o_files/dump_heap/dump_heap.o
+ .debug_frame   0x000003dc       0x68 o_files/startup.o
